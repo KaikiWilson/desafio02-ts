@@ -4,6 +4,8 @@ export const login = (): void => {
 
     function loadingLogin() {
         alert('testando')
+        //getButton 
     }
+    
     loadingLogin()
 }
