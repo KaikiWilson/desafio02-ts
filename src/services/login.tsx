@@ -1,3 +1,9 @@
 export const login = (): void => {
-    alert('Bem vinda!')
+
+    const getButton = document.getElementById('getButton')
+
+    function loadingLogin() {
+        alert('testando')
+    }
+    loadingLogin()
 }
