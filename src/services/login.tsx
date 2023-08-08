@@ -1,11 +1,8 @@
 export const login = (): void => {
 
-    const getButton = document.getElementById('getButton')
-
-    function loadingLogin() {
-        alert('testando')
-        //getButton 
+    function welcomeAlert() {
+        alert('Olá! Seja muito bem vindo :)')
     }
     
-    loadingLogin()
+    welcomeAlert()
 }

@@ -2,8 +2,9 @@ import './Header.css'
 
 export const Header  = () => {
   return(
-    <div className='header'>
-      Dio Bank
-    </div>
+    <header className='header'>
+        <h1 id='h1DioBankName'>Dio</h1>
+        <span id='spanDioBankName'>Bank</span>
+    </header>
   )
 }

@@ -1,0 +1,14 @@
+.Footer {
+    min-height: 28vh;
+    font-weight: lighter;
+    background-color: #9413dc;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+
+.textFooter {
+    color: #fff;
+    text-align: center;
+    border-top: 2px solid lightgray;
+}

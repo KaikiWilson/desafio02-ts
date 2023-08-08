@@ -1,0 +1,6 @@
+.layoutBody {
+    min-height: 100vh;
+    background-color: #9413dc;
+    display: flex;
+    flex-direction: column;
+}

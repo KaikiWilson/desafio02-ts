@@ -1,3 +1,26 @@
 .header {
-    background-color: orange;
+    display: flex;
+    flex-direction: row;
+    background-color: #9413dc;
+    color: #fff;
+    font-weight: bold;
+    font-size: 60px;
+    justify-content: center;
+    text-align: center;
+    margin: 0;
+    min-height: 35vh;
+}
+
+#h1DioBankName {
+    margin-top: 25px;
+    border-bottom: 2px solid red;
+    width: max-content;
+    height: max-content;
+}
+
+#spanDioBankName {
+    margin-top: 25px;
+    border-top: 2px solid cyan;
+    width: max-content;
+    height: max-content;
 }
